@@ -1,6 +1,6 @@
 # Recycling App
 
-The aim of the project was following the steps from design studio techniques and implementing a hi-fi prototype of a application.
+The aim of the project was following the steps from design studio techniques and implementing a hi-fi prototype of an application.
 We chose creating a prototype for a recycling application (3 people group project).
 For our task, we had to complete the following design stages:
 - User research - analysing the collected data and identifying the key problems (to be solved) of our future design.
